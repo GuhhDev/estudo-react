@@ -1,7 +1,8 @@
 # Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+<p align="left">
+<img align="center" alt="GuhhDev" height="400" width="380" src=https://github.com/GuhhDev/estudo-react/blob/main/imgs/Capture.PNG>
+<img align="center" alt="GuhhDev" height="400" width="430" src=https://github.com/GuhhDev/estudo-react/blob/main/imgs/Capture2.PNG>
+</p>
 ## Available Scripts
 
 In the project directory, you can run:
